@@ -1,0 +1,12 @@
+Task:
+Given a string, find the minimum number of letters you have to remove from it, so that the string becomes a Peragram.
+
+Input:
+Input consists of a string on a single line. The string will contain at least 1 and at most 1000 characters. The string
+will only contain lowercase letters a-z.
+
+Output:
+Output should consist of a single integer on a single line, the minimum number of characters that have to be removed
+from the string to make it a Peragram.
+
+site: https://open.kattis.com/problems/peragrams
